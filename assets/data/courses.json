@@ -1,0 +1,92 @@
+{
+  "courses": [
+    {
+      "id": "anatomy-101",
+      "title": "مقدمة في التشريح",
+      "instructor": "د. سارة",
+      "thumbnail": "assets/images/anatomy.png",
+      "sections": [
+        {
+          "id": "s1",
+          "title": "الجهاز الهيكلي",
+          "lessons": [
+            {
+              "id": "l1",
+              "title": "العظام",
+              "durationSec": 31,
+              "video": "assets/videos/sample_1.mp4"
+            },
+            {
+              "id": "l2",
+              "title": "المفاصل",
+              "durationSec": 11,
+              "video": "assets/videos/sample_2.mp4"
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "title": "الجهاز العضلي",
+          "lessons": [
+            {
+              "id": "l3",
+              "title": "العضلات",
+              "durationSec": 9,
+              "video": "assets/videos/sample_3.mp4"
+            },
+            {
+              "id": "l4",
+              "title": "الحركة",
+              "durationSec": 31,
+              "video": "assets/videos/sample_1.mp4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physiology-101",
+      "title": "أساسيات وظائف الأعضاء",
+      "instructor": "د. أحمد",
+      "thumbnail": "assets/images/physiology.png",
+      "sections": [
+        {
+          "id": "s1",
+          "title": "أجهزة الجسم",
+          "lessons": [
+            {
+              "id": "l5",
+              "title": "القلب والدورة الدموية",
+              "durationSec": 11,
+              "video": "assets/videos/sample_2.mp4"
+            },
+            {
+              "id": "l6",
+              "title": "الجهاز التنفسي",
+              "durationSec": 9,
+              "video": "assets/videos/sample_3.mp4"
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "title": "التوازن الحيوي",
+          "lessons": [
+            {
+              "id": "l7",
+              "title": "الجهاز العصبي",
+              "durationSec": 31,
+              "video": "assets/videos/sample_1.mp4"
+            },
+            {
+              "id": "l8",
+              "title": "المراجعة والتطبيق",
+              "durationSec": 11,
+              "video": "assets/videos/sample_2.mp4"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
